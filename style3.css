@@ -1,0 +1,80 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 0;
+    width: 100vh;
+    background-image: url('Design/images/back_3.jpg');
+    background-position: center;
+    background-size:cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing:border-box;
+    position: relative;
+} 
+
+  .container14
+{
+    height: 75vh;
+    width: 30%;
+    background:rgb(235, 14, 14);
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    padding:0,20px;
+}
+
+
+.container h1
+{
+color:rgb(235, 14, 14);
+margin-top: 50px;
+}
+.img
+{
+    height:80px;
+    width: 80px;
+    background:url("Design/images/about.jpg");
+    background-size:cover;
+    background-position:center;
+    border-radius:50px;
+    position:absolute;
+    top:0%;
+    left:50%
+}
+.container p{
+    color:black;
+    margin-top:60px;
+    font-size:larger;
+    font-style:normal;
+}
+.btn{
+    display:inline-block;
+    background:linear-gradient(45deg,rgb(219,75,99));
+    border-radius:9px;
+    padding:11px 22px;
+    box-sizing:border-box;
+    text-decoration:none;
+    color:rgb(148, 16, 16);
+    box-shadow:3px 8px 22px rgba(185, 38, 126, 0.15);
+}
+.btn2
+{
+    background:no-repeat;
+    outline:none;
+    border:1px solid white;
+    color:white;
+    width:55%;
+    padding:7px 15px;
+    font-size:large;
+    cursor:pointer;
+    transition:0.35 case;
+    margin-top:50px;
+
+}
+.btn2.hover{
+    background:black;
+    color:white;
+
+}
