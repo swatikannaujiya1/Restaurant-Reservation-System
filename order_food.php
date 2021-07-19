@@ -506,7 +506,7 @@
             
             if (n == (x.length - 1)) 
             {
-                document.getElementById("nextBtn").innerHTML = "Submit";
+                document.getElementById("nextBtn").innerHTML = "<a href='pay.php'>Checkout</a>";
             } 
             else 
             {

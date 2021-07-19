@@ -15,15 +15,15 @@ include "Includes/templates/navbar.php";
 						<p>
 						A good restaurant sets a high standard for its food quality and ensures that guests receive the same quality with every meal. Serving quality food can earn your restaurant a good reputation and compel your guests to return for repeat visits. High-quality ingredients and an experienced cook are important to serving good food consistently. A good cook understands your guests' needs and works well with the kitchen staff to ensure that guests receive their meal the way they ordered it every time.
 						</p>
-								<!-- <button class="btn">Thankyou</button>
-						<button class="btn2">Contact us</button> -->
-						<!-- <a href="" target="_blank" class="bttn_style_1" style="margin-right: 10px; display: flex;justify-content: center;align-items: center;">
+								<button class="btn">Thankyou</button>
+						        <button class="btn2">Contact us</button>
+					<a href="" target="_blank" class="bttn_style_1" style="margin-right: 10px; display: flex;justify-content: center;align-items: center;">
 														Thankyou
 														<i class="fas fa-angle-right"></i>
-						<a href="contact.php" class="bttn_style_2" style="display: flex;justify-content: center;align-items: center;">
+					<a href="contact.php" class="bttn_style_2" style="display: flex;justify-content: center;align-items: center;">
 														Contact us
 														<i class="fas fa-angle-right"></i>
-													</a> -->
+													</a> 
         </div>
 	</div>
 	<div class="row justify-content-center">

@@ -4,6 +4,7 @@ include "Includes/templates/navbar.php";
 
 ?>
 
+
 <form id="form1" action="logic/register.php" method="POST">
   <fieldset>
     <legend>Customer Register</legend>
